@@ -6,3 +6,5 @@ channels:
 dependencies:
   - python=3.8        #<= python version
   - jupyter           #<= list any python packages here`
+  - ipython<9
+  - octave_kernel==0.36.0
